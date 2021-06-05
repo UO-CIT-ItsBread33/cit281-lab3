@@ -15,6 +15,9 @@
 - We were also able to figure out how to create effective loops for objects using for ..in syntax
 - We also got to work with arrow functions and learn how they work, and how to convert normal functions into arrow functions. 
 
-### Outcome pics: 
+### Outcome pics:
+
+![output1](outputLab3-2.png)
+![output2](outputLab3.png)
 
 ### [**Back to home page**](https://uo-cit-itsbread33.github.io/ItsBread33.github.io/)
